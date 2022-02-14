@@ -17,7 +17,7 @@ int main()
 {
    double salary, netSalary;
    int etype, otHrs, otRate;
-   printf("Enter Employee Type : "); //cout
+   cout<<"Enter Employee Type : ";
    scanf("%d", &etype);//cin
    printf("Enter Salary  : ");
    scanf("%f", &salary);
